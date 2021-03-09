@@ -1,8 +1,10 @@
-# Graphics Page
+<h1 align="center">Graphics Page</h1>
 
-A simple page for displaying GPU related information.
+<p align="center">A simple page for displaying GPU related information.</p>
 
-![Graphics Page](.github/graphics-page.png "Graphics Page")
+<p align="center">
+    <img src="https://i.imgur.com/QlgGu4u.png"/>
+</p>
 
 [How to Install](INSTALL.md)
 
