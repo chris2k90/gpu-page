@@ -8,4 +8,6 @@
 
 [How to Install](INSTALL.md)
 
+[How to Contribute](CONTRIBUTING.md)
+
 [https://store.kde.org/p/1484581/](https://store.kde.org/p/1484581/)
