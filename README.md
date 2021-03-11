@@ -10,7 +10,7 @@
 
 [How to Contribute](CONTRIBUTING.md)
 
-[https://store.kde.org/p/1484581/](https://store.kde.org/p/1484581/)
+[store.kde.org](https://store.kde.org/p/1484581/)
 
 ## License
 Have a look at the [license file](./LICENSE) for details.
