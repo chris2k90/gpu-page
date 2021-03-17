@@ -16,6 +16,6 @@ now if you go to your repository on github, you'll see a `Compare & pull request
 
 if you don't know which language code your language is, don't worry, after the pull request i can help you with that :)
 
-### I don't know how to git and stuff works
+### I don't know how to git and stuff
 
-if you know nothing about git and stuff just send me an email to [kinofhek@gmail.com](mailto:kinofhek@gmail.com) with the right words :)
+if you know nothing about git and stuff just send an email to [kinofhek@gmail.com](mailto:kinofhek@gmail.com) with the right words :)
