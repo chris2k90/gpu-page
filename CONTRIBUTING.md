@@ -18,4 +18,4 @@ if you don't know which language code your language is, don't worry, after the p
 
 ### I don't know how to git and stuff works
 
-if you know nothing about git and stuff just send me an email to `[kinofhek@gmail.com](mailto:kinofhek@gmail.com)` with the right words :)
+if you know nothing about git and stuff just send me an email to [kinofhek@gmail.com](mailto:kinofhek@gmail.com) with the right words :)
