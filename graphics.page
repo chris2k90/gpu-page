@@ -2,6 +2,7 @@
 chartFace=org.kde.ksysguard.piechart
 Title=Video Memory Usage
 Title[nl]=Videogeheugengebruik
+Title[pl]=Wykorzystanie pamięci video
 Title[pt_BR]=Uso da Memória de Video
 Title[ru]=Использование видеопамяти
 
@@ -19,6 +20,7 @@ showLegend=false
 chartFace=org.kde.ksysguard.piechart
 Title=GPU Temperature
 Title[nl]=GPU-temperatuur
+Title[pl]=Temperatura GPU
 Title[pt_BR]=Temperatura da GPU
 Title[ru]=Температура GPU
 
@@ -50,6 +52,7 @@ showLegend=false
 chartFace=org.kde.ksysguard.textonly
 Title=Overview
 Title[nl]=Overzicht
+Title[pl]=Przegląd
 Title[pt_BR]=Visão Geral
 Title[ru]=Обзор
 
@@ -74,6 +77,7 @@ lineChartFillOpacity=100
 [page]
 Title=Graphics
 Title[nl]=Grafisch
+Title[pl]=Grafika
 Title[pt_BR]=Gráficos
 Title[ru]=Графика
 actionsFace=
@@ -115,6 +119,7 @@ name=section-0
 [page][row-1]
 Title=GPU Usage
 Title[nl]=GPU-gebruik
+Title[pl]=Wykorzystanie GPU
 Title[pt_BR]=Uso da GPU
 Title[ru]=Использование GPU
 isTitle=true
@@ -137,6 +142,7 @@ name=section-0
 [page][row-3]
 Title=GPU Frequencies
 Title[nl]=GPU-frequenties
+Title[pl]=Częstotliwości GPU
 Title[pt_BR]=Frequências da GPU
 Title[ru]=Частоты GPU
 isTitle=true
